@@ -60,4 +60,4 @@ Contributions are welcome! If you want to contribute, please follow these steps:
 ## Acknowledgments
 - Google Generative AI API: Thanks to Google for providing the tools to analyze resumes with AI.
 - Streamlit: A great framework for building interactive web applications in Python.
-- [Krish Naik] (https://github.com/krishnaik06)
+- [Krish Naik](https://github.com/krishnaik06)
